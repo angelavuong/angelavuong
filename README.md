@@ -2,9 +2,9 @@
 
 **I'm a Solutions Architect based out of Texas.**
 
-- 😄 Pronouns: She/Her/Hers
-- 💻 I’m currently working on ... creating my own blog and extending my learning on containerizing workloads.
-- 🌱 I’m currently learning ... open-source technologies and hybrid-cloud infrastructure models.
+- 😄  Pronouns: She/Her/Hers
+- 💻  I’m currently working on ... creating my own blog and extending my learning on containerizing workloads.
+- 🌱  I’m currently learning ... open-source technologies and hybrid-cloud infrastructure models.
 
 COMING SOON - Blog posts!
 
