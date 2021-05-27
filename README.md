@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Angela 👋
+
+**I'm a Solutions Architect based out of Texas.**
+
+- 😄 Pronouns: She/Her/Hers
+- 💻 I’m currently working on ... creating my own blog and extending my learning on containerizing workloads.
+- 🌱 I’m currently learning ... open-source technologies and hybrid-cloud infrastructure models.
+
+COMING SOON - Blog posts!
 
 <!--
 **angelavuong/angelavuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
