@@ -6,3 +6,9 @@ I'm an Associate Solutions Architect based out of the Dallas, TX area. I have 5+
 -  I’m currently working on ... creating my own blog and extending my learning on containerizing workloads.
 -  I’m currently learning ... open-source technologies and hybrid-cloud infrastructure models.
 -  Fun fact: In my free time, I enjoy traveling, cooking, and living an active lifestyle.
+
+**Certifications:**
+
+<!-- CCNA Routing and Switching -->
+
+[<img src="https://github.com/angelavuong/angelavuong/blob/main/images/cisco_ccna.png">](https://www.credly.com/badges/c8d62fc0-aa8d-42ee-a06a-6ff21fafcc31/linked_in_profile)
