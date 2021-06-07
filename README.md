@@ -14,4 +14,5 @@ I'm an **Associate Solutions Architect** based out of the Dallas, TX area. I hav
 
 
 **Connect with me:**
+<!-- LinkedIn -->
 [<img src="https://img.shields.io/badge/LinkedIn-angelavuong-blue">](https://www.linkedin.com/in/angelavuong/)
