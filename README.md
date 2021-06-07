@@ -7,7 +7,7 @@ I'm an Associate Solutions Architect based out of the Dallas, TX area. I have 5+
 - 🌱  I’m currently learning ... open-source technologies and hybrid-cloud infrastructure models.
 - ⚡ Fun fact: In my free time, I enjoy traveling, cooking, and living an active lifestyle.
 
-COMING SOON - Blog posts!
+
 
 <!--
 **angelavuong/angelavuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
