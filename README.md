@@ -15,4 +15,4 @@ I'm an **Associate Solutions Architect** based out of the Dallas, TX area. I hav
 
 **Let's connect!**
 <!-- LinkedIn -->
-[<img src="https://img.shields.io/badge/LinkedIn-angelavuong-blue?style=flat-square&logo=appveyor">](https://www.linkedin.com/in/angelavuong/)[<img src="https://img.shields.io/github/watchers/angelavuong/angelavuong?style=social">]
+[<img src="https://img.shields.io/badge/LinkedIn-angelavuong-blue?style=flat-square&logo=appveyor">](https://www.linkedin.com/in/angelavuong/)<img src="https://img.shields.io/github/watchers/angelavuong/angelavuong?style=social">
