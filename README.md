@@ -10,9 +10,7 @@ I'm an **Associate Solutions Architect** based out of the Dallas, TX area. I hav
 
 **Certifications:**
 <!-- CCNA Routing and Switching -->
-[<img src="https://github.com/angelavuong/angelavuong/blob/main/images/cisco_ccna.png" width="150" height="150">](https://www.credly.com/badges/c8d62fc0-aa8d-42ee-a06a-6ff21fafcc31/linked_in_profile)
-<!-- Azure Fundamentals -->
-<img src="https://github.com/angelavuong/angelavuong/blob/main/images/azure-fundamentals.png" width="150" height="150">
+[<img src="https://github.com/angelavuong/angelavuong/blob/main/images/cisco_ccna.png" width="150" height="150">](https://www.credly.com/badges/c8d62fc0-aa8d-42ee-a06a-6ff21fafcc31/linked_in_profile)<img src="https://github.com/angelavuong/angelavuong/blob/main/images/azure-fundamentals.png" width="150" height="150">
 
 **Let's connect!**
 <!-- LinkedIn -->
