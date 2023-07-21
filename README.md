@@ -5,7 +5,7 @@ I'm an **Automation Specialist Solutions Architect** based out of the Dallas, TX
 -  Pronouns: She/Her/Hers
 -  I’m currently working on ... **helping my customers automate their infrastructure and containerizing their application workloads.**
 -  I’m currently learning ... **open-source technologies and hybrid-cloud infrastructure models.**
--  Fun fact: In my free time, I enjoy traveling, cooking, and living an active lifestyle.
+-  Fun fact: In my free time, I enjoy traveling, cooking, and working out!
 
 
 **Certifications:**
